@@ -6,4 +6,4 @@ No design, no fancy styling. If you need them, do it yourself.
 The only code edited is in ```App.js```. The rest of the files are untouched.
 
 ### Website
-(https://heavy-forms.netlify.app/)
+[Click Here](https://heavy-forms.netlify.app/)
